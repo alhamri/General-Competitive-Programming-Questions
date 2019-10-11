@@ -34,7 +34,7 @@ public class Main
         for(int q=2;q<arr.length;q++)
         {
             if(arr[q]==true)
-            System.out.println(arr[q]+" ");
+            System.out.println(q); //or System.out.print(q+" ");
 	}
     }
 }
